@@ -5,8 +5,8 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Build-Depends: debhelper (>= 7.0.50~),
  cmake,
  pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.6.80),
- libkdeedu-dev (>= 4:4.6.80)
+ kde-sc-dev-latest (>= 4:4.6.90),
+ libkdeedu-dev (>= 4:4.6.90)
 Standards-Version: 3.9.1
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
 Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
@@ -31,4 +31,3 @@ Depends: ${misc:Depends}, kanagram (= ${binary:Version})
 Description: debugging symbols for kanagram
  This package contains debugging files used to investigate problems with
  binaries included in kanagram.
-

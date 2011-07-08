@@ -4,7 +4,7 @@ Source: http://www.kde.org
 
 Files: *
 Copyright: 2005 Joshua Keel <joshuakeel@gmail.com>
-	   2007 Jeremy Whiting <jeremy@scitools.com> 
+           2007 Jeremy Whiting <jeremy@scitools.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -53,4 +53,3 @@ License: GPL-2+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
-
