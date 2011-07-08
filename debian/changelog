@@ -1,5 +1,5 @@
-kanagram (4:4.6.90+repack-0ubuntu1) UNRELEASED; urgency=low
+kanagram (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
 
   * Initial release 
 
- -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 01 Jul 2011 21:43:10 +0200
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 08 Jul 2011 13:28:38 +0200
