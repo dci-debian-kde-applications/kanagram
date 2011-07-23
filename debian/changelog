@@ -1,3 +1,10 @@
+kanagram (4:4.7.0-0ubuntu1) UNRELEASED; urgency=low
+
+  * New upstream release
+  * Use wildcard in install file so we do not need to worry about not-installed
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 23 Jul 2011 14:17:41 +0200
+
 kanagram (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
 
   * Initial release 
