@@ -1,4 +1,4 @@
-kanagram (4:4.7.0-0ubuntu1) UNRELEASED; urgency=low
+kanagram (4:4.7.0-0ubuntu1) oneiric; urgency=low
 
   * New upstream release
   * Use wildcard in install file so we do not need to worry about not-installed
