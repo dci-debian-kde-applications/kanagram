@@ -1,3 +1,9 @@
+kanagram (4:4.7.1-0ubuntu1) UNRELEASED; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Sun, 04 Sep 2011 00:12:22 +0200
+
 kanagram (4:4.7.0-0ubuntu1) oneiric; urgency=low
 
   * New upstream release
