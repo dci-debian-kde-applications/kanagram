@@ -1,3 +1,10 @@
+kanagram (4:4.7.1-0ubuntu2) oneiric; urgency=low
+
+  * No-change rebuild so translations aren't stripped from .desktop
+    files anymore.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Thu, 15 Sep 2011 23:13:02 +0200
+
 kanagram (4:4.7.1-0ubuntu1) oneiric; urgency=low
 
   * New upstream release
