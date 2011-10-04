@@ -1,3 +1,9 @@
+kanagram (4:4.7.2-0ubuntu1) UNRELEASED; urgency=low
+
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Oct 2011 21:13:28 +0530
+
 kanagram (4:4.7.1-0ubuntu2) oneiric; urgency=low
 
   * No-change rebuild so translations aren't stripped from .desktop
