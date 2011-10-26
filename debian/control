@@ -1,11 +1,12 @@
 Source: kanagram
 Section: misc
 Priority: extra
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
-Build-Depends: debhelper (>= 7.0.50~),
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Eshat Cakar <info@eshat.de>
+Build-Depends: debhelper (>= 7.3.16),
  cmake,
  pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.7.1),
+ kde-sc-dev-latest (>= 4:4.7.2),
  libkdeedu-dev (>= 4:4.7)
 Standards-Version: 3.9.1
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
