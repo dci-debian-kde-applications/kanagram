@@ -1,6 +1,6 @@
 Source: kanagram
 Section: misc
-Priority: extra
+Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: debhelper (>= 7.3.16),
@@ -14,7 +14,6 @@ Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kanagram.git
 Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kanagram.git
 
 Package: kanagram
-Section: misc
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: jumble word puzzle for KDE
@@ -25,6 +24,7 @@ Description: jumble word puzzle for KDE
 
 Package: kanagram-dbg
 Section: debug
+Priority: extra
 Architecture: any
 Breaks: kdeedu-dbg (<= 4:4.6.80)
 Replaces: kdeedu-dbg (<= 4:4.6.80)
