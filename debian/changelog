@@ -1,25 +1,6 @@
-kanagram (4:4.7.1-0ubuntu2) oneiric; urgency=low
+kanagram (4:4.7.2-0r0) UNRELEASED; urgency=low
 
-  * No-change rebuild so translations aren't stripped from .desktop
-    files anymore.
+  [ Eshat Cakar ]
+  * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Felix Geyer <debfx-pkg@fobos.de>  Thu, 15 Sep 2011 23:13:02 +0200
-
-kanagram (4:4.7.1-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 10:04:05 -0400
-
-kanagram (4:4.7.0-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-  * Use wildcard in install file so we do not need to worry about not-installed
-
- -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 23 Jul 2011 14:17:41 +0200
-
-kanagram (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
-
-  * Initial release 
-
- -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 08 Jul 2011 13:28:38 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 26 Oct 2011 17:44:12 +0200
