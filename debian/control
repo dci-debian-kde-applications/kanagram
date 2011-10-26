@@ -8,10 +8,10 @@ Build-Depends: debhelper (>= 7.3.16),
  pkg-kde-tools (>= 0.14),
  kde-sc-dev-latest (>= 4:4.7.2),
  libkdeedu-dev (>= 4:4.7)
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kanagram.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kanagram.git
 
 Package: kanagram
 Section: misc
