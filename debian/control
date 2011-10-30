@@ -5,7 +5,7 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Build-Depends: debhelper (>= 7.0.50~),
  cmake,
  pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.7.2),
+ kde-sc-dev-latest (>= 4:4.7.3),
  libkdeedu-dev (>= 4:4.7)
 Standards-Version: 3.9.1
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
@@ -15,7 +15,7 @@ Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagra
 Package: kanagram
 Section: misc
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
 Description: jumble word puzzle for KDE
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
