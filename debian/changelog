@@ -1,4 +1,4 @@
-kanagram (4:4.7.2-0r0) UNRELEASED; urgency=low
+kanagram (4:4.7.2-0r1) UNRELEASED; urgency=low
 
   [ Eshat Cakar ]
   * Initial release. Start from the Kubuntu packaging, thanks!
