@@ -1,21 +1,25 @@
 Source: kanagram
 Section: misc
-Priority: extra
+Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
-Build-Depends: debhelper (>= 7.0.50~),
+XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Eshat Cakar <info@eshat.de>
+Build-Depends: debhelper (>= 7.3.16),
  cmake,
  pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.7.3),
+ kde-sc-dev-latest (>= 4:4.7.2),
  libkdeedu-dev (>= 4:4.7)
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kanagram/ubuntu
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kanagram/ubuntu
+X-Debian-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kanagram.git
+X-Debian-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kanagram.git
 
 Package: kanagram
-Section: misc
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
+Suggests: khelpcenter4
 Description: jumble word puzzle for KDE
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
@@ -24,6 +28,7 @@ Description: jumble word puzzle for KDE
 
 Package: kanagram-dbg
 Section: debug
+Priority: extra
 Architecture: any
 Breaks: kdeedu-dbg (<= 4:4.6.80)
 Replaces: kdeedu-dbg (<= 4:4.6.80)

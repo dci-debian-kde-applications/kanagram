@@ -1,9 +1,16 @@
-kanagram (4:4.7.3-0ubuntu1) UNRELEASED; urgency=low
+kanagram (4:4.7.3-0ubuntu1) precise; urgency=low
 
   * New upstream release
-  * kanagram needs to depend on kdeedu-kvtml-data
+  * Merge with Debian, no changes
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sun, 30 Oct 2011 19:38:28 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 23:46:57 +0000
+
+kanagram (4:4.7.2-0r1) UNRELEASED; urgency=low
+
+  [ Eshat Cakar ]
+  * Initial release. Start from the Kubuntu packaging, thanks!
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 26 Oct 2011 17:44:12 +0200
 
 kanagram (4:4.7.1-0ubuntu2) oneiric; urgency=low
 
