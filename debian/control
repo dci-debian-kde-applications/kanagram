@@ -23,13 +23,3 @@ Description: jumble word puzzle for KDE
  .
  This package is part of the KDE education module
 
-Package: kanagram-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Breaks: kdeedu-dbg (<= 4:4.6.80)
-Replaces: kdeedu-dbg (<= 4:4.6.80)
-Depends: ${misc:Depends}, kanagram (= ${binary:Version})
-Description: debugging symbols for kanagram
- This package contains debugging files used to investigate problems with
- binaries included in kanagram.
