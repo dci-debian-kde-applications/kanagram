@@ -1,6 +1,6 @@
-kanagram (4:4.7.2-0r1) UNRELEASED; urgency=low
+kanagram (4:4.7.2-0r1) experimental; urgency=low
 
   [ Eshat Cakar ]
   * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 26 Oct 2011 17:44:12 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:56 -0300
