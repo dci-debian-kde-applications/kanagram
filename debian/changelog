@@ -1,3 +1,9 @@
+kanagram (4:4.7.90-0ubuntu2) precise; urgency=low
+
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 15 Dec 2011 14:17:56 +0000
+
 kanagram (4:4.7.3-0ubuntu1) precise; urgency=low
 
   * New upstream release
