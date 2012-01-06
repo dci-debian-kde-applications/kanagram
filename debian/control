@@ -11,8 +11,8 @@ Build-Depends: debhelper (>= 7.3.16),
  libkdeedu-dev (>= 4:4.7)
 Standards-Version: 3.9.2
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kanagram/ubuntu
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kanagram/ubuntu
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kanagram
 X-Debian-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/kanagram.git
 X-Debian-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/kanagram.git
 
