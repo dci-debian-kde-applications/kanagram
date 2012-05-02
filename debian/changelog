@@ -1,3 +1,11 @@
+kanagram (4:4.8.3-0ubuntu0.1) UNRELEASED; urgency=low
+
+  * New upstream release
+    - add libssl-dev to build-dep
+    - bump Standards-Version to 3.9.3 (no change)
+
+ -- Jonathan Kolberg <bulldog98@kubuntu.org>  Tue, 01 May 2012 00:14:21 +0200
+
 kanagram (4:4.8.2-0ubuntu1) precise; urgency=low
 
   * New upstream release
