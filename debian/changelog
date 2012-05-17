@@ -1,4 +1,4 @@
-kanagram (4:4.8.3-0ubuntu0.1) UNRELEASED; urgency=low
+kanagram (4:4.8.3-0ubuntu1) quantal; urgency=low
 
   * New upstream release
     - add libssl-dev to build-dep
