@@ -7,7 +7,7 @@ Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: debhelper (>= 7.3.16),
  cmake,
  pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.8.3),
+ kde-sc-dev-latest (>= 4:4.8.90),
  libkdeedu-dev (>= 4:4.8.1),
  libssl-dev
 Standards-Version: 3.9.3
