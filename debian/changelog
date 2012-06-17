@@ -1,3 +1,9 @@
+kanagram (4:4.8.4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 17 Jun 2012 01:42:04 +0200
+
 kanagram (4:4.7.4-2) unstable; urgency=low
 
   * Team upload. Upload to unstable.

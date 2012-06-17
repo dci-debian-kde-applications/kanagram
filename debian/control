@@ -18,7 +18,7 @@ Package: kanagram
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
 Suggests: khelpcenter4
-Description: jumble word puzzle for KDE
+Description: jumble word puzzle
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
  .
