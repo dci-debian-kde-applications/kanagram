@@ -6,9 +6,8 @@ XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.
 Uploaders: Eshat Cakar <info@eshat.de>
 Build-Depends: debhelper (>= 7.3.16),
  cmake,
- pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.8.90),
- libkdeedu-dev (>= 4:4.8.1),
+ pkg-kde-tools (>= 0.14), 
+ libkdeedu-dev (>= 4:4.9.0),
  libssl-dev
 Standards-Version: 3.9.3
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
