@@ -3,6 +3,7 @@ kanagram (4:4.10.2-1) UNRELEASED; urgency=low
   * New upstream release.
   * Update uploaders.
   * Bump build-deps.
+  * Manually choose which kanagram files to (not) install.
 
  -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 15:50:38 +0000
 
