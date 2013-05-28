@@ -1,6 +1,5 @@
 usr/bin/kanagram
-usr/lib/libkanagramengine.so.4
-usr/lib/libkanagramengine.so.4.10.2
+usr/lib/libkanagramengine.so.*
 usr/share/applications/kde4/kanagram.desktop
 usr/share/doc/kde/HTML/en/kanagram/answer-highlight.png
 usr/share/doc/kde/HTML/en/kanagram/common
