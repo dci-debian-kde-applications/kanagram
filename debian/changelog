@@ -1,3 +1,20 @@
+kanagram (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+  * Merge with Debian
+  * Update .install file
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:27 +0000
+
+kanagram (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream release.
+  * Update uploaders.
+  * Bump build-deps.
+  * Manually choose which kanagram files to (not) install.
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 15:56:03 +0000
+
 kanagram (4:4.10.2-0ubuntu1) raring; urgency=low
 
   * New upstream bugfix release
@@ -87,6 +104,12 @@ kanagram (4:4.8.80-0ubuntu1) quantal; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 06 Jun 2012 13:54:49 +0100
 
+kanagram (4:4.8.4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 17 Jun 2012 01:42:04 +0200
+
 kanagram (4:4.8.3-0ubuntu1) quantal; urgency=low
 
   * New upstream release
@@ -131,12 +154,35 @@ kanagram (4:4.7.90-0ubuntu2) precise; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 15 Dec 2011 14:17:56 +0000
 
+kanagram (4:4.7.4-2) unstable; urgency=low
+
+  * Team upload. Upload to unstable.
+
+ -- Pino Toscano <pino@debian.org>  Wed, 07 Mar 2012 10:56:27 +0100
+
+kanagram (4:4.7.4-1) experimental; urgency=low
+
+  * New upstream release. 
+  
+  [ José Manuel Santamaría Lema ]
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
+  * Add myself to Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:36:17 +0100
+
 kanagram (4:4.7.3-0ubuntu1) precise; urgency=low
 
   * New upstream release
   * Merge with Debian, no changes
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 23:46:57 +0000
+
+kanagram (4:4.7.2-1) experimental; urgency=low
+
+  [ Eshat Cakar ]
+  * Initial release. Start from the Kubuntu packaging, thanks!
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:56 -0300
 
 kanagram (4:4.7.2-0r1) raring; urgency=low
 
@@ -170,3 +216,4 @@ kanagram (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Initial release 
 
  -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 08 Jul 2011 13:28:38 +0200
+
