@@ -5,11 +5,11 @@ Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: debhelper (>= 9),
- cmake,
- pkg-kde-tools (>= 0.14),
- kde-sc-dev-latest (>= 4:4.11),
- libkdeedu-dev (>= 4:4.11)
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               libkdeedu-dev (>= 4:4.11),
+               pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kanagram.git
@@ -17,11 +17,10 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kanagram.git
 
 Package: kanagram
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kdeedu-kvtml-data
+Depends: kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter4
 Description: jumble word puzzle
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
  .
  This package is part of the KDE education module
-
