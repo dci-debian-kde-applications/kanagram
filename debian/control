@@ -9,7 +9,7 @@ Uploaders: Eshat Cakar <info@eshat.de>,
 Build-Depends: cmake,
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
-               libkdeedu-dev (>= 4:4.11),
+               libkdeedu-dev (>= 4:4.13.2),
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
