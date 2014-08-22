@@ -1,10 +1,10 @@
-kanagram (4:4.14.0-1) UNRELEASED; urgency=medium
+kanagram (4:4.14.0-1) unstable; urgency=medium
 
   * New upstream release.
   * Update build dependencies.
   * Update install file.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Aug 2014 18:35:09 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 20:57:48 +0200
 
 kanagram (4:4.13.3-1) unstable; urgency=medium
 
