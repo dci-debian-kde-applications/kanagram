@@ -27,7 +27,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kanagram.git
 Package: kanagram
 Architecture: any
 Depends: kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
-Suggests: khelpcenter4
+Suggests: khelpcenter
 Description: jumble word puzzle
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
