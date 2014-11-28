@@ -8,6 +8,7 @@ kanagram (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
   * Update build-dependencies for the kf5 port
   * refresh kanagram.install
   * Suggest khelpcenter instead of khelpcenter4.
+  * Switch to v3 dhmk for kf5
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 15:53:01 +0100
 
