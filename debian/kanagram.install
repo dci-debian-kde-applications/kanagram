@@ -1,5 +1,5 @@
 usr/bin/kanagram
-usr/etc/xdg/kanagram.knsrc
+etc/xdg/kanagram.knsrc
 usr/share/appdata/kanagram.appdata.xml
 usr/share/applications/kanagram.desktop
 usr/share/doc/HTML/en/kanagram/answer-highlight.png
