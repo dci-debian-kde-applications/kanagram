@@ -14,6 +14,7 @@ kanagram (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
   [ Harald Sitter ]
   * Remove redundant destdir definition in rules
   * Fix install path of etc/xdg
+  * Drop install file to make dh_install noop
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 15:53:01 +0100
 
