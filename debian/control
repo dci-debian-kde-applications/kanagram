@@ -8,17 +8,17 @@ Uploaders: Eshat Cakar <info@eshat.de>,
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
-               qtdeclarative5-dev,
                kde-sc-dev-latest (>= 4:4.12),
                kdoctools-dev,
+               libkeduvocdocument-dev (>= 4:14.11.95),
                libkf5crash-dev,
                libkf5declarative-dev,
                libkf5newstuff-dev,
                libphonon4qt5-dev,
                libphonon4qt5experimental-dev,
                libqt5opengl5-dev,
-               libkeduvocdocument-dev (>= 4:14.11.95),
-               pkg-kde-tools (>= 0.14)
+               pkg-kde-tools (>= 0.14),
+               qtdeclarative5-dev
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/kdeedu/kanagram
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/kanagram.git
