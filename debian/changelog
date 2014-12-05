@@ -1,4 +1,4 @@
-kanagram (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+kanagram (4:14.11.97-0ubuntu1~ubuntu15.04~ppa3) vivid; urgency=medium
 
   [ Philip Muškovac ]
   * New upstream release candidate
@@ -19,7 +19,10 @@ kanagram (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
   * Add lintian override
   * Fix copyright format to be spec compliant
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 15:53:01 +0100
+  [ Jonathan Riddell ]
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Dec 2014 14:33:19 +0100
 
 kanagram (4:4.14.2-1) unstable; urgency=medium
 
