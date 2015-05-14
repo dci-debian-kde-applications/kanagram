@@ -1,8 +1,9 @@
-kanagram (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+kanagram (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 11:33:32 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 21:17:08 -0700
 
 kanagram (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
