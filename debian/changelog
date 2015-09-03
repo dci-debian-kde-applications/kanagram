@@ -1,10 +1,11 @@
-kanagram (4:15.04.3-1~) UNRELEASED; urgency=medium
+kanagram (4:15.08.0-1) unstable; urgency=medium
 
-  * New upstream release (15.04.0).
-  * New upstream release (15.04.1).
-  * New upstream release (15.04.3).
+  * Team upload.
+  * Upload to unstable
+  * New upstream release
+  * Update kanagram QML module depends based on Kubuntu
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:50:30 +0200
+ -- Scott Kitterman <scott@kitterman.com>  Thu, 03 Sep 2015 12:50:25 -0400
 
 kanagram (4:14.12.3-1) experimental; urgency=medium
 
