@@ -3,8 +3,14 @@ Upstream-Name: kanagram
 Source: http://www.kde.org
 
 Files: *
-Copyright: 2005 Joshua Keel <joshuakeel@gmail.com>
-           2007 Jeremy Whiting <jeremy@scitools.com>
+Copyright: 2014, Debjit Mondal <debjitmondal05@gmail.com>
+           1989-1991, Free Software Foundation, Inc
+           2014, Jeremy Whiting <jpwhiting>kde.org>
+           2007-2014, Jeremy Whiting <jpwhiting@kde.org>
+           2005, Joshua Keel <joshuakeel@gmail.com>
+           2012, Laszlo Papp <lpapp@kde.org>
+           2011, Marco Martin <mart@kde.org>
+           2011, Sebastian Kügler <sebas@kde.org>
 License: GPL-2+
 
 Files: doc/*
