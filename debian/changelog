@@ -1,3 +1,11 @@
+kanagram (4:15.12.1-2~1.gbpccbf2e) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ccbf2e96dc03c503244a7c59967daf7bb1c07299 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:46:14 +0200
+
 kanagram (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
