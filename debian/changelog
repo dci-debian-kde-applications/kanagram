@@ -1,10 +1,11 @@
-kanagram (4:15.12.1-2~1.gbpccbf2e) UNRELEASED; urgency=medium
+kanagram (4:16.04.0-1~1.gbpcfef2e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ccbf2e96dc03c503244a7c59967daf7bb1c07299 **
+  ** SNAPSHOT build @cfef2e9f30a9778405f9003e26ee48951653d02b **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:46:14 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 03:30:15 +0200
 
 kanagram (4:15.12.1-1) experimental; urgency=medium
 
