@@ -1,12 +1,13 @@
-kanagram (4:16.04.1-1~1.gbp704f18) UNRELEASED; urgency=medium
+kanagram (4:16.04.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @704f186d114bc7b1a7b6a616d66ed55e0079d9d8 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:30:16 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:39:59 +0200
 
 kanagram (4:15.12.1-1) experimental; urgency=medium
 
