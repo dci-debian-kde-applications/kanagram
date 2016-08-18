@@ -1,3 +1,11 @@
+kanagram (4:16.08.0-1~1.gbp678ef9) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @678ef9962c486a966af3131d6f56b9c2314a8469 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:30:21 +0200
+
 kanagram (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
