@@ -1,3 +1,11 @@
+kanagram (4:16.08.0-2~1.gbp3e14b4) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @3e14b41d28c46cc33a105291ddefacd0ecd3fbad **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 19 Oct 2016 13:30:31 +0200
+
 kanagram (4:16.08.0-1) unstable; urgency=medium
 
   * New upstream release (16.08.0)
