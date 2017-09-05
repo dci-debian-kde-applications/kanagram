@@ -42,6 +42,8 @@ Depends: kdeedu-kvtml-data,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: jumble word puzzle
  KAnagram is a game where a random word is shown with its letters scrambled.
  To win, the player must rearrange the letters into the correct order.
