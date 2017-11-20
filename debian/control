@@ -33,6 +33,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kanagram.git
 Package: kanagram
 Architecture: any
 Depends: kdeedu-kvtml-data,
+         libqt5texttospeech5-dev,
          qml-module-qtmultimedia,
          qml-module-qtquick-controls,
          qml-module-qtquick2,
