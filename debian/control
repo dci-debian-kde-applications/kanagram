@@ -22,6 +22,7 @@ Build-Depends: cmake (>= 2.8.12),
                libphonon4qt5-dev (>= 4.6.60~),
                libphonon4qt5experimental-dev,
                libqt5opengl5-dev (>= 5.4),
+               libqt5texttospeech5-dev,
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4),
                qtdeclarative5-dev (>= 5.4)
@@ -33,7 +34,6 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kanagram.git
 Package: kanagram
 Architecture: any
 Depends: kdeedu-kvtml-data,
-         libqt5texttospeech5-dev,
          qml-module-qtmultimedia,
          qml-module-qtquick-controls,
          qml-module-qtquick2,
