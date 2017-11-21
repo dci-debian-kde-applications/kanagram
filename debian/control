@@ -36,7 +36,6 @@ Depends: kdeedu-kvtml-data,
          qml-module-qtmultimedia,
          qml-module-qtquick-controls,
          qml-module-qtquick2,
-         qml-module-qtwebkit,
          ${misc:Depends},
          ${shlibs:Depends},
 Suggests: khelpcenter
